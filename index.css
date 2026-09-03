@@ -61,11 +61,11 @@ main input {
 }
 
 input#subtitle {
-  font-size: clamp(1.2rem, 4vw, 2.25rem);
+  font-size: clamp(2.4rem, 8vw, 4.50rem);
   letter-spacing: 0.08em;
   text-transform: uppercase;
   transform: scaleY(1.125);
-  color: #FFFF00;
+  color: #fde047;
 }
 
 .yellow-sans {
